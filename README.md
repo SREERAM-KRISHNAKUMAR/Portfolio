@@ -1,6 +1,6 @@
 
 🛠 About Me
-📍 Name: sEERAM
+📍 Name: SREERAM KRISHNAKUMAR
 📍 Education: Integrated MSc in Data Science, Amrita Vishwa Vidyapeetham
 📍 Passion: Machine Learning, Deep Learning, Big Data, AI
 📍 Experience: Hands-on projects in AI, Machine Learning, and Web Development
